@@ -62,8 +62,8 @@ class CelyLoginViewController: UIViewController {
             Cely.loginCompletionBlock?(username, password)
         }
 
-        usernameField?.text = ""
-        passwordField?.text = ""
+//        usernameField?.text = ""
+//        passwordField?.text = ""
     }
 }
 
